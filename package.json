@@ -1,6 +1,5 @@
 {
   "name": "stage0.1",
-  "homepage": "https://adhirajgupta.github.io/genzenzone4/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
