@@ -152,7 +152,7 @@ export default function Blog() {
 		<ThemeProvider theme={theme}>
 			<CssBaseline />
 			<Container maxWidth="lg">
-				<Header title="Learner Profile" sections={sections} />
+				<Header title="Request to a Year" sections={sections} />
 				<main>
 					<MainFeaturedPost post={mainFeaturedPost} />
 					<Grid container spacing={4}>
